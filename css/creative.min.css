@@ -123,9 +123,15 @@ header.masthead h1{font-size:4rem}}
     background-color: white;
 }
 
+.imgCenter{
+    display: block;
+    margin: auto;
+    
+}
+
 .imgBGWhite{
     background-color: white;
-    border-radius: 50px;
+    border-radius: 100%;
 }
 
 .portfolio-box{position:relative;
