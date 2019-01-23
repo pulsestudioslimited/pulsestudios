@@ -180,7 +180,8 @@ header.masthead h1{font-size:4rem}}
     border-radius:300px;
     font-family:'Open Sans','Helvetica Neue',Arial,sans-serif}
 .btn-xl{padding:1rem 2rem}
-.btn-primary{background-color:#f05f40;border-color:#212529}
+.btn-primary{background-color:#212529;
+    border-color:#212529}
 .btn-primary:active,.btn-primary:focus,
 .btn-primary:hover{color:#fff;background-color:#ee4b28!important}
 .btn-primary:active,.btn-primary:focus{
